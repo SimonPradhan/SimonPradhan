@@ -1,3 +1,4 @@
+![touch the grass giphy](https://github.com/SimonPradhan/SimonPradhan/blob/main/tenor.gif)
 ### Hi there Simon Pradhananga HERE!! 👋
 
 <!--
