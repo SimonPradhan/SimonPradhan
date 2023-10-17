@@ -1,5 +1,5 @@
-![touch the grass giphy](https://github.com/SimonPradhan/SimonPradhan/blob/main/tenor.gif)
-### Hi there Simon Pradhananga HERE!! 👋
+
+### Konichiwa Simon Pradhananga HERE!! 👋
 
 <!--
 **SimonPradhan/SimonPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
