@@ -17,7 +17,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: 'username=SimonPradhan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues'
+          options: 'username=SimonPradhan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues&hide_rank=true'
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
