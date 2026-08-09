@@ -1,56 +1,55 @@
-
-### Konichiwa Simon Pradhananga HERE!! 👋
-
-<!--
-**SimonPradhan/SimonPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-</br>
-
- <div>
-  <a href="https://github.com/SimonPradhan">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonPradhan&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonPradhan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
- 
- ## Skills
-<div display: inline_block;"><br>
-
-  <img height="40" align="center" alt="Simon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Simon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Simon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Simon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Simon-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Simon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-</div>
-  
-</br>
-
-## Contact 
-<div> 
-  <a href="https://www.linkedin.com/in/simon-pradhananga-81627b238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  <a href="https://www.instagram.com/simon.pradhananga/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: simon234pradhan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</br>
- 
- ![Snake animation](https://github.com/SimonPradhan/SimonPradhan/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+simonpradhan
+> Memorable developer positioning.
+Theme: GitHub · Style: Creative · Agent: Full-Stack Engineer
+Header
+> Editing this section in the inspector.
+Hi, I'm **simonpradhan**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=simonpradhan&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=simonpradhan&theme=github-dark" alt="simonpradhan hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=simonpradhan&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=simonpradhan&theme=github-dark" alt="simonpradhan about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=simonpradhan&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=simonpradhan&theme=github-dark" alt="simonpradhan stack section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=simonpradhan&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=simonpradhan&theme=github-dark" alt="simonpradhan projects section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=simonpradhan&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=simonpradhan&theme=github-dark" alt="simonpradhan stats section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=simonpradhan&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=simonpradhan&theme=github-dark" alt="simonpradhan social section" />
+  </picture>
+</p>
+<!-- Sections: Header, About Me, Skills, Projects, Heatmap, GitHub Stats, Connect -->
