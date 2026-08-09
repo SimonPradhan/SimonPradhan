@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a full-stack developer working across **mobile, web, and desktop**. My recent focus has been building real-time, production-grade systems — from a **React Native POS app**, **Next.js restaurant ordering platform** with server-side permission handling.I'm the kind of person who tinkers for fun — I've built local streaming setups just to see if I could, and I'm always picking up something new, whether that's a framework or, this term, the fundamentals of finance and marketing analytics from my coursework. I like that mix: building things and understanding the systems (technical or otherwise) around them.
+I'm a full-stack developer working across **mobile, web, and desktop**. My recent focus has been building real-time, production-grade systems from a **React Native POS app**, **Next.js restaurant ordering platform** with server-side permission handling.I'm the kind of person who tinkers for fun I've built local streaming setups just to see if I could, and I'm always picking up something new, whether that's a framework or, this term, the fundamentals of finance and marketing analytics from my coursework. I like that mix: building things and understanding the systems (technical or otherwise) around them.
 
 Always open to interesting problems, good collaborators, and conversations about anything from ESC/POS printer quirks to whatever I'm currently down a rabbit hole with. I like untangling gnarly bugs as much as building new features.
 
