@@ -1,9 +1,5 @@
-simonpradhan
-> Memorable developer positioning.
-Theme: GitHub · Style: Creative · Agent: Full-Stack Engineer
-Header
-> Editing this section in the inspector.
-Hi, I'm **Simon Pradhananga**. This README is tuned for **personal brand** with a GitHub visual system.
+
+Hi, I'm **Simon Pradhananga**. 👋
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=simonpradhan&theme=github-dark&mode=light" />
